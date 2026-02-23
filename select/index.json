@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "コネクト",
+  "base_artist": "ClariS",
+  "createdAt": "2026-02-23T08:06:50.914351Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "コネクト",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/01_コネクト_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "コネクト",
+      "artist": "Lia",
+      "has_synced": false,
+      "path": "select/02_コネクト_Lia.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "コネクト",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/03_コネクト_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "コネクト",
+      "artist": "Claris",
+      "has_synced": true,
+      "path": "select/04_コネクト_Claris.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "コネクト",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/05_コネクト_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "コネクト - From THE FIRST TAKE",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/06_コネクト_-_From_THE_FIRST_TAKE_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "コネクト -2017-",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/07_コネクト_-2017-_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "コネクト",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/08_コネクト_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "コネクト -2017-",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/09_コネクト_-2017-_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "コネクト",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/10_コネクト_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "コネクト - Connect",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/11_コネクト_-_Connect_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "コネクト(作品賞)",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/12_コネクト(作品賞)_ClariS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "コネクト",
+      "artist": "ClariS",
+      "has_synced": false,
+      "path": "select/pl_01_コネクト_ClariS.txt"
+    }
+  ]
+}
